@@ -44,5 +44,7 @@ Since this role also involves **Golang** in the future, it is a plus if you incl
 2.  Include a `README.md` file in your repository with instructions on how to run the app.
 3.  Send the repository link to us.
 
+> **⚠️ Important:** Please verify your build instructions before submitting. **If we cannot run your application successfully by following the instructions provided in your README, your submission will be considered failed.**
+
 ---
 *Happy Coding!*
