@@ -1,4 +1,4 @@
-# Flutter Technical Test: Todo App with Authentication
+# Technical Test: Todo App with Authentication
 
 ## 📋 Overview
 Hello! Thank you for your interest in the **Fullstack Engineer** position. 
