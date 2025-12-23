@@ -5,7 +5,7 @@ Hello! Thank you for your interest in the **Fullstack Engineer** position.
 
 In this test, we do not limit which libraries or state management solutions you must use.
 
-Create a simple **Mobile Application (Android & iOS)** for a Todo List that features Login functionality and persistent data CRUD.
+Create a simple **Flutter Mobile Application (Android & iOS)** for a Todo List that features Login functionality and persistent data CRUD.
 
 ## 📱 Functional Requirements
 
